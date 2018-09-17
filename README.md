@@ -3,6 +3,10 @@
 
 The repo contains two examples.  
 
+# Prerequisite
+
+install latest Swift for TensorFlow toolchain from: https://github.com/tensorflow/swift/blob/master/Installation.md
+
 # Logistic Regression
 
 ```swift
