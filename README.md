@@ -1,5 +1,5 @@
 # tfiws_snippet
- This the code snippets of my Swift for TensorFlow talk on @Swift Conf 2018.
+ This is the code of my Swift for TensorFlow talk on @Swift Conf 2018.
 
 The repo contains two examples.  
 
